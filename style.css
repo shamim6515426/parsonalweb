@@ -1,0 +1,607 @@
+ .county li img{
+      width: 40px;
+      height: 40px;
+ }
+body{
+      background-color: #ffff;
+      color: black;
+}
+ .navbar-brand{
+       font-size: 45px;
+       font-weight: bold;
+       color: #4998F0 !important;
+     transition: 0.5s;
+ }
+ .navbar-brand:hover{
+     
+      
+ }
+ .nav-link{
+      font-size: 22px;
+      color: rgb(42, 15, 59)  !important;
+ border-radius: 18px;
+      margin: 4px;
+      transition: 0.5s;
+      padding: 4px 7px;
+ }
+
+ .nav-link{
+     transition: 0.5s;
+     padding: 4px 10px;
+    
+ }
+ .nav-link:hover{
+      background-color: rgb(222, 225, 228);
+ }
+form button{
+      
+      outline: none;
+      border: none;
+      padding: 5px 15px;
+      font-size: 29px;
+      background-color:rgb(8, 100, 204) ;
+      border-radius:  19px;
+      color: white;
+}
+.nav-link  img{
+       width: 40px;
+       height: 40px;
+}
+
+.dropdown-menu{
+      border: none;
+      outline: none;
+      background-color: #ffff;
+      box-shadow:  3px 5px 6px 2px rgba(0,0,0,0.5);
+}
+ 
+/* banner img */
+
+.baner-img img{
+      width: 100%;
+      height: 700px;
+}
+
+.banner{
+      background: url(./pnj-img/62d5645ab5ae7e2c4922f5c7_snow20background202.png);
+      background-repeat:no-repeat ;
+      background-size: cover;
+      width: 100%;
+      height: auto;
+}
+
+.banner-div{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+       box-shadow: 1px 1px 1px 1px rgba(129, 122, 122, 0.5);
+       padding: 8px;
+       border-radius: 19px;
+       max-width: 320px;
+
+}
+.banner-div i{
+      background-color: rgb(37, 90, 206);
+      color: #ffff;
+      padding: 5px;
+      border-radius: 50%;
+
+}
+.banner-div p{
+      color: #1a69c4;
+    
+      font-size: 20px;
+}
+
+.banner-text h1{
+     font-size: 55px;
+     margin: 19px 0;
+     font-weight: bold;
+     color: #241E21;
+      
+}
+.banner-text span{
+      color: #07479b;
+}
+.banner-text  p{
+     max-width: 350px;
+     opacity: 0.9;
+     font-weight: 450;
+     font-size: 22px;
+}
+.banner-img-box{
+      padding: 5px;
+      border-radius: 20px;
+      background-color: #1269cc;
+      color:white;
+
+}
+
+
+.div div{
+      
+
+}
+.img-text img{
+      width: 40px;
+      height: 40px;
+       
+}
+
+.texr-img p {
+      font-size: 12px;
+
+      color: white;
+
+        
+}
+.texr-img h6{
+      color: white;
+
+       font-size: 18px;
+}
+.div div{
+       margin: 5px;
+       padding:0 5px;
+       border-radius: 18px;
+       background-color: rgb(35, 35, 196);
+}
+ .div img{
+       width: 70px;
+       height: 70px;
+}
+.brand-section{ 
+     margin: auto;
+       text-align: center;
+}
+.brand-section img{
+     width: 100px;
+     margin: 0 8px;
+     color:black;
+     height: 40px;
+     
+}
+img{
+       width: 100%;
+}
+.purchases-text .b-bolad{
+      padding: 15px;
+      font-size: 46px;
+      display: inline-block;
+      font-weight: bold;
+      background-color: #3f6aa1;
+      color: white;
+      border-radius: 50%;
+      margin: 5px 0; 
+
+}
+.purchases-text h6{
+       font-size: 24px;
+       opacity: 0.8;
+       letter-spacing: 2px;
+       margin: 7px 0;
+}
+.purchases-text h1{
+       font-size: 40px;
+       color: rgb(11, 135, 184)
+       ;
+   
+       font-weight:600;
+}
+.purchases-text span{
+       color: rgb(20, 17, 17) !important;
+}
+h3{
+       font-size: 24px;
+       opacity: 0.9;margin: 15px 0;
+       line-height: 35px;
+}
+.style-text{
+       display: flex;
+       align-items: center;
+}
+.style-text  
+.style-text p{
+       font-size:20px;
+       opacity: 0.9;
+}
+.purchases-text h4{
+       margin: 25px 0;
+       color: rgb(5, 209, 114);
+       cursor: pointer;
+}
+.purchases-text h4 i{
+      margin: 0 4px;
+      transition: 0.4s;
+}
+.purchases-text h4 i:hover{
+       transform: translateX(15px);
+}
+
+/* earn maney */
+
+.Earn-img img{
+
+      height: 450px;
+      width: 400px;
+       
+}
+.Earn-text i{
+       font-size: 45px;
+       color: rgb(243, 233, 233);
+       padding: 12px;
+       border-radius: 50%;
+       background-color: #2a6fbe;
+       display: inline-block;
+}
+.Earn-text h1{
+       font-size: 38px;
+       font-weight: bold;
+       margin: 20px 0;
+
+}
+.Earn-text h1 span{
+        color: #dfb80e !important;
+}
+.Earn-text p{
+       font-size: 19px;
+       opacity: 0.9;
+       margin: 20px 0;
+       line-height: 35px;
+}
+.bafgj{
+       letter-spacing: 3px;
+       opacity: 0.9;
+       color: #0d4c94;
+}
+.Earn-text button{
+       outline: none;
+       border: none;
+       background-color: #1a69c4;
+       border-radius: 5px;
+       font-size: 22px;
+       color: white;
+       margin: 20px 0;
+       padding: 9px;
+       transition: 0..4s;
+}
+.Earn-text button:hover{
+       background: linear-gradient( to right, rgb(25, 156, 13),rgb(196, 12, 134));
+}
+.card-img img{
+       width: 550px;
+       height: 550px;
+       margin: auto;
+}
+
+/* card section */
+
+.card-text i{
+      font-size: 45px;
+      color: rgb(243, 233, 233);
+      padding: 12px;
+      border-radius: 50%;
+      background-color: #2a6fbe;
+      display: inline-block;
+}
+.card-text p{
+       font-size: 22px;
+       color: #dfb80e ;
+       opacity: 0.9;
+       margin: 10px 0;
+}
+.card-text h1{
+       font-size: 40px;
+       font-weight: bold;
+       color: #041c38;
+       margin: 20px 0;
+}
+.card-text h1 span{
+       color: #0d4c94;
+}
+.spachtext{ 
+      font-size: 20px;
+      opacity: 0.7;
+      margin: 20px 0;
+      color: black !important;
+
+      line-height: 35px;
+
+}
+.card-text  h6{
+       font-size: 18px;
+       font-weight: 600;
+       color: #2a6fbe;
+       margin: 24px 0;
+      
+}
+.style-texte{
+       display: flex;
+       align-items: center;
+}
+.style-texte i{
+      padding: 2px;
+     border: 1px solid rgb(41, 2, 151) ;
+      color:rgb(13, 3, 99);
+      border-radius: 50%;
+      margin: 5px;
+      font-size: 18px;
+      background-color: transparent;
+}
+.style-texte p{
+      color: black;
+    opacity: 0.7;
+      font-size: 18px;
+} 
+
+ button{
+      outline: none;
+      border: none;
+      background-color: #1a69c4;
+      border-radius: 5px;
+      font-size: 22px;
+      color: white;
+      margin: 20px 0;
+      padding: 9px;
+      transition: 0.4s;
+}
+button:hover{
+      background: linear-gradient( to right, rgb(25, 156, 13),rgb(196, 12, 134));
+}
+/* mid rtext */
+.mid-text {
+       text-align: center;
+  
+}
+.mid-text p {
+       font-size: 18px;
+       letter-spacing: 2.5px;
+       margin: 10px 0;
+       opacity: 0.7;
+}
+
+.mid-text h1{
+       font-size: 40px;
+       font-weight: bold;
+       text-transform: capitalize;
+       margin: 30px 0;
+  
+}
+.mid-text h1 span{
+       color: #2664aa;
+}
+.mid-text h6{
+       font-size: 27px;
+       margin: 10px 0;
+       opacity: 0.7;
+       letter-spacing: 2px;
+}
+
+/* servics section */
+
+.service-box i{
+       font-size: 50px;
+       padding: 5px;
+       border-radius: 50%;
+       color:rgb(26, 120, 207);
+       
+       margin: 15px 0;
+
+}
+.service-box p{
+       font-size: 20px;
+       max-width: 15px 0;
+       font-weight: 550;
+       color: #0d4c94;
+}
+
+.service-box h1{
+       font-size: 17px;
+       opacity: 0.8;
+       word-spacing: 5px;
+       line-height: 30px;
+       color: #20171c;
+
+}
+.service-box{
+       padding: 5px;
+}
+.service-box h6{
+       font-size: 20px;
+       color: #0d4c94;
+       letter-spacing: 2px;
+       margin: 10px 0;
+      
+      
+
+}
+  
+
+.textbox h1{
+       font-weight: 50px;
+     width: 60px;
+     height: 60px;
+       text-align: center;
+       color: white;
+       background-color: #084ac5;
+       border-radius: 50%;
+      margin: 20px 0;
+      display: inline-block
+
+}
+.textbox h2{
+       font-size: 25px;
+       opacity: 0.9;
+       color: #153d72;
+      margin: 20px 0;
+
+       
+}
+.textbox{
+       text-align: center;
+}
+.textbox p{ 
+      font-size: 17px;
+      opacity: 0.7;
+      margin: 20px 0;
+}
+.serviesgote p{
+        opacity: 0.9;
+        font-size: 20px;
+        letter-spacing: 2px;
+        text-align: center;
+        margin: 10px 0;
+}
+
+/* card drvtion */
+.blog-section{
+       background: url(./pnj-img/45.png);
+       background-repeat: no-repeat;
+       background-size: cover;
+       width: 100%;
+       height: auto;
+
+}
+.blog-section p{
+       text-align: center;
+       font-size: 20px;
+       font-weight: 500;
+       margin: 15px 0;
+       opacity: 0.8;
+
+}
+.blog-section h1{
+       font-size: 35px;
+       text-align: center;
+       margin-bottom: 20px;
+      margin: 20px 0 ;
+       
+     font-weight: bold;
+}
+.card-img{
+      width: 100%;
+      height: 280px; 
+      overflow: hidden;  
+}
+.bolg-card img{
+      width: 100%;
+      height: 100%;
+      transform: scale(1);
+ transition: 0.4s;
+       
+}
+.bolg-card img:hover{
+       transform: scale(1.1);
+}
+.bolg-card{
+       border: 1px solid rgb(111, 111, 179);
+       text-align: center;
+       border-radius: 5px;
+       cursor: pointer;
+       background-color: white;
+}
+.bolg-card h1{
+       font-size: 25px;
+        color: rgb(53, 63, 204);
+        padding: 5px;
+}
+.bolg-card P{
+       font-size: 16px;
+       padding: 5px;
+
+       
+}
+.tex-card{
+       display: flex;
+       justify-content: space-between;
+       align-items: center;
+       padding: 8px;
+       opacity: 0.9;
+
+}
+.tex-card p{
+       font-size: 22px;
+       color: red;
+
+}
+.tex-card i{
+       font-size: 25px;
+
+
+}
+.tex-card i span{ 
+      font-size: 20px;
+      font-weight: bold;
+
+}
+.leng-bg{
+        
+       background-color: #3961ac !important;
+       padding: 10px !important;
+       color: white;
+
+ 
+
+}
+.long-text{
+        max-width: 500px;
+}
+.long-img{
+        width: 250px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+}
+/* footer section */
+
+.footer-1 h1{
+
+        font-size: 50px;
+        color: rgb(15, 60, 206);
+        line-height: 55px;
+}
+.footer-1  p{
+        font-size: 25px;
+         margin: 15px 0;
+         line-height: 30px;
+         opacity: 0.9;
+}
+.footer-icon{
+        font-size: 35px;
+        color: #07479b;
+        margin: 5px;
+        padding: 10px 0;
+}
+
+.footer-2 h1{
+       font-size: 25px;
+       color: #2274e7; 
+       margin: 10px 0;
+
+}
+.footer-2 a{
+        display: block;
+        text-decoration: none;
+        font-size: 20px;
+        margin: 20px 0;
+        color: black;
+        opacity: 0.9;
+        transition: 0.5s;
+        
+}
+.footer-2 a:hover{
+        transform: translateX(15px);
+        color: red;
+}
+.footer-buttom h1{
+        font-size: 25px;
+        opacity: 0.8;
+        margin: 30px 0;
+
+}
+
+.footer-buttom p{
+        font-size: 12px;
+        opacity: 0.9;
+}
